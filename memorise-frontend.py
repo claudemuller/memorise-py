@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- Coding: utf-8 -*-
 
+"""
+" Python version of Memorise SDL game (except that this version uses Tkinter and not SDL like the c++ version)
+"""
+
 from tkinter import Tk, Menu
 from ttk import Frame, Button, Style
 
